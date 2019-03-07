@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "542387587069",
+    "firebase_url": "https://fir-listview-be102.firebaseio.com",
+    "project_id": "fir-listview-be102",
+    "storage_bucket": "fir-listview-be102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542387587069:android:4acffa1648bb98bd",
+        "android_client_info": {
+          "package_name": "com.fpoly.duyet.doctruyencuoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542387587069-dh6qvheq6ck0rq6c741f8rqtc94900r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqno-KOaGCFQOzzCvUjguriQXpSTGG2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

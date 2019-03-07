@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_taikhoan"
+            android:icon="@drawable/streankife"
+            android:title="Map" />
+        <item
+            android:id="@+id/nav_yeuthich"
+            android:icon="@drawable/extdad"
+            android:title="Tỉ Giá" />
+    </group>
+
+    <item android:title="Khác">
+        <menu>
+            <item
+                android:id="@+id/nav_danhgia"
+                android:icon="@drawable/rating"
+                android:title="Đánh giá" />
+            <item
+                android:id="@+id/nav_dangxuat"
+                android:icon="@drawable/log_out"
+                android:title="Đăng xuất" />
+        </menu>
+    </item>
+
+</menu>
